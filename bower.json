@@ -1,0 +1,15 @@
+{
+  "name": "cyberia-angular-client",
+  "description": "A angularjs client for the Cyberia RP Server",
+  "version": "0.0.1",
+  "homepage": "https://github.com/brandonhesse/Cyberia-Angular-Client",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-route": "1.4.x",
+    "angular-loader": "1.4.x",
+    "angular-mocks": "~1.4.x",
+    "html5-boilerplate": "~4.3.0"
+  }
+}
